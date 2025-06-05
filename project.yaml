@@ -14,6 +14,7 @@ basic:
         - 1200
     pages:
         - /
+        - '/solutions/media-and-entertainment/#'
     monitoring:
         days: {  }
         type: ''
